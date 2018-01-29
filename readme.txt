@@ -6,3 +6,5 @@ Git is free software.
 
 总想对你倾诉 
 我对生活是多么热爱
+
+git tracks change
