@@ -10,3 +10,9 @@ Git is free software.
 git tracks change
 
 哈哈哈
+
+Why Me
+
+魅力魅力
+
+用音乐Show自己
